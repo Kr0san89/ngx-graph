@@ -1,8 +1,12 @@
 # ngx-graph
 
-[![Join the chat at https://gitter.im/swimlane/ngx-graph](https://badges.gitter.im/swimlane/ngx-graph.svg)](https://gitter.im/swimlane/ngx-graph?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![NPM](https://img.shields.io/npm/v/@kr0san89/ngx-graph?color=orange&style=flat-square)](https://www.npmjs.com/package/@kr0san89/ngx-graph)
+[![License](https://img.shields.io/github/license/Kr0san89/ngx-graph?color=blue&style=flat-square)](https://github.com/Kr0san89/ngx-graph/blob/master/LICENSE)
+[![Love Angular badge](https://img.shields.io/badge/angular-love-blue?logo=angular&angular=love)](https://www.github.com/angular/angular)
+[![GitHub issues](https://img.shields.io/github/issues/Kr0san89/ngx-graph.svg 'GitHub issues')](https://github.com/Kr0san89/ngx-graph)
+[![GitHub stars](https://img.shields.io/github/stars/Kr0san89/ngx-graph.svg 'GitHub stars')](https://github.com/Kr0san89/ngx-graph)
 
-A Graph visualization for angular
+A Graph visualization for angular forked from: https://github.com/swimlane/ngx-graph
 
 ## Documentation & Demos
 
@@ -10,7 +14,7 @@ https://swimlane.github.io/ngx-graph/
 
 ## Installation
 
-1. `npm install @swimlane/ngx-graph --save`
+1. `npm install @kr0san89/ngx-graph --save`
 2. Import `NgxGraphModule` into your module
 3. Use the `ngx-graph` component in your components
 
