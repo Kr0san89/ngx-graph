@@ -1,10 +1,10 @@
 {
   "name": "@kr0san89/ngx-graph",
-  "version": "9.0.1",
+  "version": "9.0.2",
   "description": "Graph visualization for angular",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/swimlane/ngx-graph.git"
+    "url": "git+https://github.com/Kr0san89/ngx-graph.git"
   },
   "keywords": [
     "angular",
@@ -25,9 +25,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/swimlane/ngx-graph/issues"
+    "url": "https://github.com/Kr0san89/ngx-graph/issues"
   },
-  "homepage": "https://github.com/swimlane/ngx-graph#readme",
+  "homepage": "https://github.com/Kr0san89/ngx-graph#readme",
   "peerDependencies": {
     "@angular/animations": "10.x || 11.x || 12.x || 13.x || 14.x || 15.x || 16.x || 17.x",
     "@angular/common": "10.x || 11.x || 12.x || 13.x || 14.x || 15.x || 16.x || 17.x",
