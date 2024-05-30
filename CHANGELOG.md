@@ -1,5 +1,9 @@
 # Changelog
 
+## 11.0.0
+
+- update angular to 18
+
 ## 10.0.0
 
 - update angular to 17 (small issue with doc not displaying graph -> just move the ngx-graph once up might be bug in this docspa module)
