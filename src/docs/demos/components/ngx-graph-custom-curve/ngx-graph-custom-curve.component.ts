@@ -5,7 +5,8 @@ import { stepRound } from './customStepCurved';
 
 @Component({
   selector: 'ngx-graph-custom-curve',
-  templateUrl: './ngx-graph-custom-curve.component.html'
+  templateUrl: './ngx-graph-custom-curve.component.html',
+  standalone: false
 })
 export class NgxGraphCustomCurve {
   public curve: any = stepRound;

@@ -7,7 +7,8 @@ import * as shape from 'd3-shape';
 @Component({
   selector: 'ngx-graph-msagl',
   templateUrl: './ngx-graph-msagl.component.html',
-  styleUrls: ['./ngx-graph-msagl.component.scss']
+  styleUrls: ['./ngx-graph-msagl.component.scss'],
+  standalone: false
 })
 export class NgxGraphMSAGLComponent {
   public layout: Layout = new MSAGLLayout();

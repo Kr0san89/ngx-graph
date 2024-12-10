@@ -7,6 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Kr0san89/ngx-graph.svg 'GitHub stars')](https://github.com/Kr0san89/ngx-graph)
 
 A Graph visualization for angular forked from: https://github.com/swimlane/ngx-graph
+Consider as alternative https://www.ngx-vflow.org/ (better maintained)
 
 ## Documentation & Demos
 

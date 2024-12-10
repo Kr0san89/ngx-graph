@@ -2,6 +2,11 @@
 
 ## 11.0.0
 
+- update angular to 19
+- allow newer angular versions than 19
+
+## 11.0.0
+
 - update angular to 18
 
 ## 10.0.0
