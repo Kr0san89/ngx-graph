@@ -15,7 +15,8 @@ export class Employee {
 @Component({
   selector: 'ngx-graph-org-tree',
   templateUrl: './ngx-graph-org-tree.component.html',
-  styleUrls: ['./ngx-graph-org-tree.component.scss']
+  styleUrls: ['./ngx-graph-org-tree.component.scss'],
+  standalone: false
 })
 export class NgxGraphOrgTreeComponent implements OnInit {
   @Input() employees: Employee[] = [];
